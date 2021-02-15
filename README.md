@@ -1,7 +1,7 @@
 # deployp7
 p7creditscore
 
-Déployement de l'API du projet P7
+Déploiement de l'API du projet P7
 
 URL : https://creditscorep7.herokuapp.com/
 
